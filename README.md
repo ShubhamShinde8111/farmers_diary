@@ -61,14 +61,21 @@ If using a third-party plugin for PDF generation, ensure it's properly configure
 <span><code>flutter build apk --release</span></code>
 
 ## 🖼️ Screenshots
-**Home screen**
-![output](output/home.jpeg)
-**AddFarm screen**
-![output](output/addFarm.jpeg)
-**AddExpense screen**
-![output](output/addExpense.jpeg)
-**Report screen**
-![output](output/report.jpeg)
+
+Below are some key screens from the **Farmers Diary** app:
+
+### 🏠 Home Screen
+![Home Screen](output/home.jpeg)
+
+### 🌾 Add Farm Screen
+![Add Farm Screen](output/addFarm.jpeg)
+
+### 💰 Add Expense Screen
+![Add Expense Screen](output/addExpense.jpeg)
+
+### 📄 Report Screen
+![Report Screen](output/report.jpeg)
+
 
 
 
