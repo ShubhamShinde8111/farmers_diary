@@ -37,28 +37,28 @@ To set up and run the project locally, follow these steps:
 
 2. **Clone the Repository**
 
-<code>git clone https://github.com/your-username/farmers_diary.git</code>
+<span><code>git clone https://github.com/your-username/farmers_diary.git</code></span>
 
 <span><code>cd farmers_diary</code></span>
 
 3. **Open in Android Studio or VS Code**
-<span><code>Launch your preferred IDE and open the project folder.</span></code>
+<span><code>Launch your preferred IDE and open the project folder.</code></span>
 
 4. **Get Project Dependencies**
-<span><code>flutter pub get</span></code>
+<span><code>flutter pub get</code></span>
 
 5. **Run the App on Emulator or Device**
-<span><code>flutter run</span></code>
+<span><code>flutter run</code></span>
 
 6. **Generate PDF Report (Optional)**
 If using a third-party plugin for PDF generation, ensure it's properly configured in pubspec.yaml:
 <span><code>dependencies:
   pdf: ^3.10.4
   path_provider: ^2.0.11
-</span></code>
+</code></span>
 
 7. **Build APK (Optional)**
-<span><code>flutter build apk --release</span></code>
+<span><code>flutter build apk --release</code></span>
 
 ## 🖼️ Screenshots
 
