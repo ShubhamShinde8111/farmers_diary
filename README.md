@@ -27,5 +27,17 @@ Farmers Diary allows users to:
 - 📄 Generate a professional PDF summary report
 - 📶 Fully functional offline using local storage
 
+## 🔧 Configuration Process
 
+To set up and run the project locally, follow these steps:
+
+1. **Install Flutter SDK**  
+   Download and install Flutter from the official site:  
+   👉 https://flutter.dev/docs/get-started/install
+
+2. **Clone the Repository**
+
+<code>git clone https://github.com/your-username/farmers_diary.git</code>
+
+<code>cd farmers_diary</code>
 
